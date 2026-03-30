@@ -49,7 +49,7 @@ Task 5B — Stay Safe Online Checklist
 A practical safety checklist for college students in India, including guidance on verifying payment requests, spotting phishing, and reporting cybercrime through official channels.
 
 Tools & Platforms Used
-PlatformPurposeLinkCanvaPresentation design (Task 1)canva.comLinkedInProfessional networking (Task 2)linkedin.comKaggleData science portfolio (Task 2)kaggle.comGitHubCode repository (Task 2)github.comHackerRankPython Basic Certification (Task 3)hackerrank.comGoogle FormsDigital Literacy Quiz (Task 3)forms.google.com
+PlatformPurposeLinkCanvaPresentation design (Task 1)canva.comLinkedInProfessional networking (Task 2)linkedin.com KaggleData science portfolio (Task 2)kaggle.com GitHubCode repository (Task 2) github.com HackerRankPython Basic Certification (Task 3)hackerrank.comGoogle FormsDigital Literacy Quiz (Task 3)forms.google.com
 
 Cybercrime Reporting (India)
 ResourceLink / ContactNational Cyber Crime Portalcybercrime.gov.inNational Cybercrime Helpline1930 (24×7)
@@ -58,7 +58,12 @@ References
 
 National Payments Corporation of India (NPCI) — UPI Payment Guidelines
 Reserve Bank of India (RBI) — Consumer Alerts on UPI Fraud
-VIT Bhopal University Course: CSE0001 — Digital Literacy & Online Safety (2025–26)
+VIT Bhopal University Course: CSE0001 — Digital Literacy & Online Safety (2025–26) 
+
+links
+linkedIn- https://www.linkedin.com/in/ananya-kumar-b8ba4a36b/?skipRedirect=true
+kaggle- https://www.kaggle.com/ananyakumar10055
+google form- https://docs.google.com/forms/d/e/1FAIpQLSdS9wj8lFNTmYglSkPzVZh8PNSlkcS5M9pP6wqqpWvtgThKCw/viewform?usp=publish-editor
 
 
 Ananya Kumar · 25BOE10055 · CSE0001 · VIT Bhopal University ·
